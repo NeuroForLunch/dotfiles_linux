@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Link
+Name=Openbox Configuration Manager
+Icon=obconf
+URL=/usr/share/applications/obconf.desktop

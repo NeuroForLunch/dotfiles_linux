@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Link
+Name=Default applications for LXSession
+Icon=preferences-desktop
+URL=/usr/share/applications/lxsession-default-apps.desktop

@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Link
+Name=LightDM GTK+ Greeter settings
+Icon=lightdm-gtk-greeter-settings
+URL=/usr/share/applications/lightdm-gtk-greeter-settings.desktop

@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Link
+Name=Monitor Settings
+Icon=video-display
+URL=/usr/share/applications/lxrandr.desktop

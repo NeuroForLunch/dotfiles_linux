@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Link
+Name=Openbox Settings
+Icon=obconf-qt
+URL=/usr/share/applications/obconf-qt.desktop
